@@ -183,3 +183,15 @@ def main():
             email = input("email:")
             changed = add_user(data,name,email) is not None
 main()
+
+
+FILE_NAME = "shop.json"
+
+
+
+
+
+
+
+
+
